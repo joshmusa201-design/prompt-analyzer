@@ -16,7 +16,7 @@ model = AutoModelForCausalLM.from_pretrained(
 # prepare the model input
 with st.form(key="prompt analyzer"):
     prompt = st.text_input("enter your prompt here: ") 
-    submit = st.form_submit_button("Analyze Prompt")
+    #submit = st.form_submit_button("Analyze Prompt")
 
 
 #with st.form(key="prompt analyzer"): 

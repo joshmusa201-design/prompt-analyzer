@@ -108,4 +108,4 @@ def calculate_score():
         print(f"Total → {specify}/100")
 calculate_score()
 
-#lets go
+#lets go chads

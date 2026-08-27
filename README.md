@@ -1,7 +1,3 @@
-# prompt-analyzer
-
-Josh Prompt Analyzer
-=======
 # Josh Prompt Analyzer
 
 An AI-powered prompt analyzer that helps users understand, improve, and refine their prompts.

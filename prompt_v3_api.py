@@ -7,7 +7,7 @@ from openai import OpenAI
 
 load_dotenv()
 
-st.title("JOSH PROMPT ANALYZER V2")
+st.title("JOSH PROMPT ANALYZER V3")
 prompt = st.text_input("Enter Your Prompt: ")
 button = st.button("Analyze Prompt")
 
@@ -79,3 +79,5 @@ if button:
     st.write(many)
 elif not button:
     st.write("please input the prompt")
+
+#progress

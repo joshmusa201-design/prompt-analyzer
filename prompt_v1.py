@@ -107,3 +107,5 @@ def calculate_score():
     elif analyzer == "Goal: ❌ Not detected" and context ==  "Context: ❌ Insufficient" and length_word == "Strong":
         print(f"Total → {specify}/100")
 calculate_score()
+
+#lets go chads

@@ -1,7 +1,3 @@
-# prompt-analyzer
-<<<<<<< HEAD
-Josh Prompt Analyzer
-=======
 # Josh Prompt Analyzer
 
 An AI-powered prompt analyzer that helps users understand, improve, and refine their prompts.
@@ -81,6 +77,5 @@ A major lesson was that getting an LLM to consistently follow instructions requi
 **V3 → API Inference**
 
 This project is part of my journey into AI engineering.
->>>>>>> 70b535537ad8660ca7b0a0c0c686d2c495b43641
 
 Prompt Analyzer - Analyze, improve, and score user prompts with AI

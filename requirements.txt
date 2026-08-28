@@ -1,4 +1,7 @@
-from huggingface_hub import login
-import os
-from dotenv import load_dotenv 
-from openai import openAI
+huggingface_hub 
+os
+dotenv 
+openai 
+requests
+transformers
+streamlit
